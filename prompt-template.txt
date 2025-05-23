@@ -1,0 +1,3 @@
+Write a {Tone} job application email for the role of {Role} at {Company}.
+The applicant's name is {Full Name}.
+Keep it under 250 words and professional.
